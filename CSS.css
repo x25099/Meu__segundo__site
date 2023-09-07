@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+   }
+   
+   #cabeça{
+       background-color: #A415E8;
+       height: 145px;
+       width: 1440px;
+       display: flex;
+   }#site1{
+       text-decoration: none;
+   }#texto-site1{
+       color:black;
+       margin-top: 30px;
+       margin-left: 40px;
+       float: left;
+   
+   
+   }#site2{
+       text-decoration: none;
+       color: black;
+       
+   
+   
+   }#texto-site2{
+       margin-left: 700px;
+       margin-top: 35px;
+       float: right;
+       font-size: 25px;
+       position: absolute;
+   }#texto-site3{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 1200px;
+    font-size: 25px;
+    color: black;
+      
+   }#site3{
+       text-decoration: none;
+   }#texto-sem-site{
+       color: black;
+       position: absolute;
+       margin-top: 35px;
+       margin-left: 1100px;
+       font-size: 25px;
+       color: white;
+   }#site4{
+       text-decoration: none;
+   
+   }#texto-site-4{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 1000px;
+    float: right;
+    font-size: 25px;
+    color:black;
+       
+   
+   }a :hover{
+       text-decoration: underline;
+   } #corpo{
+    background-image: linear-gradient(#B13CF9, #F837CD);
+    height: 1216px;
+    width: 1440px;
+   } #texto1{
+      position: absolute;
+      font-size: 35px;
+      padding-top: 150px;
+      padding-left: 100px;
+      padding-right: 800px;
+      color: white;
+   }#imagem-CSS{
+      height: 450px;
+      width: 350px;
+      position: absolute;
+      padding-top: 40px;
+      padding-left: 800px;
+   }#imagem-CSS1{
+    position: absolute;
+    height: 450px;
+    width: 600px;
+    padding-top: 50%;
+    padding-left: 100px;
+    
+    
+    
+   }#texto2{
+      position:absolute;
+      font-size: 35px;
+      padding-top: 50%;
+      padding-left: 60%;
+      padding-right: 1%;
+      color: white;
+   }

@@ -1,0 +1,82 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+#cabeça{
+    background-color: #D0082C;
+    height: 100px;
+    display: flex;
+}#principal{
+    color: black;
+    text-decoration: none;
+    color: white;
+}#texto-principal{
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size: 40px;
+    float: left;
+}#site1{
+   text-decoration: none;
+   color: black;
+}#texto-site1{
+    margin-left: 600px;
+    margin-top: 35px;
+    font-size: 30px;
+    float: right;
+    color: white;
+}a :hover{
+    text-decoration: underline;
+}#corpo{
+   background-image:linear-gradient(#FF0C1A, #3300FF);
+   height: 1200px;
+
+
+
+}#título{
+   padding-top: 40px;
+   padding-left: 40px;
+   font-size: 40px;
+    color: white;
+
+
+}#texto1{
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 30px;
+    color: white;
+}#imagem-programação1{
+    height: 600px;
+    width: 1000px;
+    padding-left: 200px;
+    padding-top: 40px;
+
+
+
+
+}#rodapé{
+    background-color: #262FFA;
+    height: 300px;
+}#texto4{
+    padding-top: 80px;
+    padding-left: 230px;
+    font-size:40px;
+    color: white;
+    float: left;
+    position: absolute;
+
+}#nome{
+    padding-top: 150px;
+    padding-left: 270px;
+    font-size: 40px;
+    color: white;
+    float: left; 
+}#criador{
+    height: 250px;
+    width: 300px;
+    float: right;
+    padding-right: 150px;
+    padding-top: 20px;
+}
